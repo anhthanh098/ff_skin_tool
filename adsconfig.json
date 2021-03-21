@@ -19,8 +19,8 @@
     "fb_native_banner":"",
     "c_id":"4057855",
     "c_banner_setting":"Banner_Android",
-    "c_banner_main":"Interstitial_Android",
-    "c_inter_main":"Banner_Android_Main",
+    "c_banner_main":"Banner_Android_Main",
+    "c_inter_main":"Interstitial_Android",
     "c_inter_setting":"Inter_Android_Main"
   },
   "app_exists": {
