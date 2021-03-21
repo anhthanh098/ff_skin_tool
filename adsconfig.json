@@ -17,11 +17,11 @@
     "fb_banner_main":"2122909591341667_2122910104674949",
     "fb_inter_main":"2122909591341667_2122910288008264",
     "fb_native_banner":"",
-    "c_id":"",
-    "c_banner_setting":"",
-    "c_banner_main":"",
-    "c_inter_main":"",
-    "c_inter_setting":""
+    "c_id":"4057855",
+    "c_banner_setting":"Banner_Android",
+    "c_banner_main":"Interstitial_Android",
+    "c_inter_main":"Banner_Android_Main",
+    "c_inter_setting":"Inter_Android_Main"
   },
   "app_exists": {
     "id": "com.king.candycrushsaga",
